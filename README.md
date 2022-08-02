@@ -52,3 +52,16 @@ python manage.py runserver
 ```
 
 > ⚠ Then, the development server will be started at http://127.0.0.1:8000/
+
+
+--> To create our first superuser, we use :
+```bash
+python manage.py createsuperuser
+
+```
+
+--> To choose user's tier, please go to admin page -> Users, and below you could see "Tier" choosing (Buyer or seller) :
+```bash
+http://127.0.0.1:8000/admin
+
+```
