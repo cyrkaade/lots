@@ -65,3 +65,5 @@ python manage.py createsuperuser
 http://127.0.0.1:8000/admin
 
 ```
+
+--> Only sellers can create lots! They can't be buyers!
