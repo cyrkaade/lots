@@ -9,13 +9,13 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/cyrkaade/StudyBud.git
+git clone https://github.com/cyrkaade/lots.git
 
 ```
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd StudyBud
+cd sellget
 
 ```
 
